@@ -1,0 +1,1 @@
+export const firebaseApiKey="AIzaSyBDEmVlQ7jezrH0DPp58S0YxIPKztEJVkk"
