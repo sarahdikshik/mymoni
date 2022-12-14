@@ -1,5 +1,5 @@
 import { StyleSheet } from "react-native";
-import { Theme } from '../themes/theme';
+import { Theme } from '../themes/themes';
 
 export const styles = StyleSheet.create({
     container:{
